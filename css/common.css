@@ -585,9 +585,9 @@ footer {
     }
 
     header div#blue_bg_text {
-        font-size: 3rem;
+        font-size: 2.9rem;
         line-height: 1.4;
-        width: 95%;
+        width: 100%;
     }
 
     main {
@@ -641,6 +641,10 @@ footer {
     .shop_wrap {
         width: 100%;
         padding: 4rem 1.5rem;
+    }
+
+    .line_up {
+        width: 100%;
     }
 
     .flex_shop {
