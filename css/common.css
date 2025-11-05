@@ -587,7 +587,7 @@ footer {
     header div#blue_bg_text {
         font-size: 2.9rem;
         line-height: 1.4;
-        width: 100%;
+        width: 95%;
     }
 
     main {
@@ -703,3 +703,4 @@ footer {
         padding: 1rem 1.5rem;
     }
 }
+
